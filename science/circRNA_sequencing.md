@@ -44,7 +44,7 @@ science: true
 ## 案例解析
 
 
-<img src="/image/circRNA_sequencing/circRNA测序文献.png">
+<img style="width: 100%;" src="/image/circRNA_sequencing/circRNA测序文献.png">
 
 本研究测序了来自不同大脑区域、初级神经元细胞和分离的突触的RNA。通过利用这些和其他可利用的数据，发现了大量的人类和老鼠神经元circRNA。circRNA在哺乳动物大脑中大量存在，在序列上具有良好的保守性。
 
